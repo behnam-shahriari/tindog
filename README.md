@@ -1,2 +1,2 @@
 # tinidog
-I created that using HTML5, CSS3, and Bootstrap5.
+I created this website using HTML5, CSS3, and Bootstrap5.
